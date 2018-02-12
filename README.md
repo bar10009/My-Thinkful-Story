@@ -6,18 +6,20 @@ Let’s start with three years and break it down. I will have completed the Thin
 
 I believe my title would be data scientist or data analyst. And I hope to gain hands on experience as a business analyst in a financial analyst or be on a data science team for a bank or fintech company. For this I will need more experience with time series and a project on how that applies to a fintech company I’d like to work for. My curiosity about recurring financial and economic problems will lead me in the direction of particular classes of problems I will enjoy solving, so I'm optimistic.
 
-After 5 years of being an analyst I will be accepted into the data science communities and this will be a major accomplishment for me. In addition to teaching what I know to others within the community. 
+After 5 years of being an analyst I will be accepted into the data science communities and this will be a major accomplishment for me. In addition slowly get comfortable teaching what I know to others within the community. I suspect my communication skills and desire to be around others will afford me opportunities to bridge data science and other fields together since I also have a tendency towards multiple interests. 
  
 For this final assignment you have writing prompts about the ideal job you envision above. Write responses to each and add them to your planning document.
+
 Describe your ideal job in one or two paragraphs as though you're talking with an industry professional. They're familiar with the business and with the culture, they know the jargon and the buzzwords. Focus on the skills, tools, and / or industry you hope to deeply specialize in.
 My ideal job is working with young like minded people who enjoy solving problems in the fintech space. 
+
 Describe your ideal job in one or two paragraphs as though you're talking with a non-technical family member or friend. Avoid jargon and keep things simple while remaining specific. If you went deep in your specialization above, emphasize here the breadth of skills and work.
 Synthesize the two exercises above into a short aspirational "professional summary" that might be appropriate on your LinkedIn profile, resume, or portfolio in the future.
 When you've completed this assignment submit a link to your career planning document below and schedule a session with Matt to discuss the job search.
  
  
  
-Hopefully one day I’ll have a routine like this guy 
+Hopefully one day I’ll have a routine like the following: 
 7 a.m.: Wake up, have some orange juice and spend some time gathering my thoughts and planning for the day. Really, I’m already working, using the time to put all technical issues to the side, and remember some of my big picture goals. These can include going over first principles like putting the user first or creating consistencies in data platforms and interpreting how these impact our current tasks.
 8 a.m.: Have breakfast, usually eggs, and check school-related emails from the executive MBA at Columbia Business School I attend on Saturdays… so every second of time is precious!
 8:30 a.m.: I read while on the subway (the 6 train) — mostly fintech news and summaries from different sources. The fintech industry has such a large group of entrepreneurs and investors that being up to date with the direction and pivots of the industry is crucial for making decisions, like what we should focus on building. Or, should we build a system that’s objectively superior or should we build it only to be better than our competition and move on to another system?
