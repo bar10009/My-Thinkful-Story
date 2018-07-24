@@ -1,17 +1,35 @@
 # My-Thinkful-Story
-This is the story of where I see myself now and in the future
 Think about your ideal career two or three years from now. What particular skills have you built? What techniques and tools are your specialty? What accomplishments might you have made? Is your title "Data Scientist", or something different? Are you working in a particular industry, or solving a particular class of problems?
 
-Let’s start with three years and break it down. I will have completed the Thinkful Bootcamp within the first half of 2018. In this time I will complete a project on time series, since my prep course project was on the failed banks in the US and I will keep the momentum going. My interest in Advanced NLP and my mentor Andrew will help me achieve success in creating a project for this too. It's a terrific way toto build upon skills in the following areas (python, pandas, scikit-learn)
+Where I see myself now and in the future.
+Let’s start with three years and break it down. I will have completed the Thinkful Bootcamp in 2018. In this time I will complete a project on time series, since my prep course project was on the failed banks in the US and I will keep the momentum going. My interest in Advanced NLP as it applies o the advertising space is of high interest. I would like to build up skills in the following areas (python, pandas, scikit-learn). 
 
-I believe my title would be data scientist or data analyst. And I hope to gain hands on experience as a business analyst in a financial analyst or be on a data science team for a bank or fintech company. For this I will need more experience with time series and a project on how that applies to a fintech company I’d like to work for. My curiosity about recurring financial and economic problems will lead me in the direction of particular classes of problems I will enjoy solving, so I'm optimistic.
+I believe my title would be data scientist or data analyst. For advertising my role would be analytics or asistant media planner.
 
 After 5 years of being an analyst I will be accepted into the data science communities and this will be a major accomplishment for me. In addition slowly get comfortable teaching what I know to others within the community. I suspect my communication skills and desire to be around others will afford me opportunities to bridge data science and other fields together since I also have a tendency towards multiple interests. 
  
 For this final assignment you have writing prompts about the ideal job you envision above. Write responses to each and add them to your planning document.
 
 Describe your ideal job in one or two paragraphs as though you're talking with an industry professional. They're familiar with the business and with the culture, they know the jargon and the buzzwords. Focus on the skills, tools, and / or industry you hope to deeply specialize in.
-My ideal job is working with young like minded people who enjoy solving problems in the fintech space. 
+
+The traditional approach doesn’t cut it for our Media team. Instead of focusing on creating media plans, they build media systems. They determine the best mix of channels to go to market, combining cultural insights and algorithms to build strategies and manage media programs. Data is the driver. Delivering creativity is the goal.
+
+"Here’s what you should know if you want to be an Assistant Media Planner/Buyer at R/GA:
+
+On any given day you might
+• Assist the Media Manager with managing campaigns across websites, search engines, DSPs and native ad platforms, such as Facebook, LinkedIn and Twitter
+• Assist in the online media planning process by pulling rankers and leveraging other site measurement data
+• Discover key data to support planning and buying strategies
+• Pull general media research and competitive data
+• Evaluate the success of strategies and recommend ongoing enhancements
+• Investigate new performance media opportunities and make recommendations
+The ideal person
+• Is familiar with media channels such as mobile, search, social, display, etc.
+• Has worked with syndicated and related online media research resources
+• Possess solid math skills and is exceptionally detail oriented
+• Has experience interacting with third-party ad servers and rich-media technologies
+• Is proficient in basic office applications such as Excel, Powerpoint and Word
+My ideal job is working with young like minded people who enjoy solving problems.
 
 Describe your ideal job in one or two paragraphs as though you're talking with a non-technical family member or friend. Avoid jargon and keep things simple while remaining specific. If you went deep in your specialization above, emphasize here the breadth of skills and work.
 Synthesize the two exercises above into a short aspirational "professional summary" that might be appropriate on your LinkedIn profile, resume, or portfolio in the future.
